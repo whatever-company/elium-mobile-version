@@ -1,7 +1,7 @@
 {
-  "latestVersion": "3.11.1",
+  "latestVersion": "3.11.2",
   "softLimitDate": "2021-09-01",
-  "hardLimitDate": "2021-10-01",
+  "hardLimitDate": "2021-09-14",
   "minimumSupportedVersionIOS": "13",
   "minimumSupportedVersionAndroid": "21"
 }
